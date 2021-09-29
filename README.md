@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @benbagley
-- 👀 I’m interested in ...
-Ruby on rails, Python, React and Node.js
-- 🌱 I’m currently learning
-Ruby on rails as well as front-end technologies
+- 👀 I’m interested in ... Ruby on rails, Python, React and Node.js
+- 🌱 I’m currently learning ... Ruby on rails as well as front-end technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 Email: benbagley{at}pme.me
